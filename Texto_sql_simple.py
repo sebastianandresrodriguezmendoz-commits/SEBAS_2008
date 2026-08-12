@@ -1,3 +1,4 @@
+# Cambio realizado por colaborador (Mejora y formato PEP 8)
 from sqlalchemy import Column, Integer, String, create_engine
 from sqlalchemy.orm import declarative_base, sessionmaker
 
